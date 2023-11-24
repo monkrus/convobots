@@ -1,7 +1,7 @@
 # Conversational Bots
 A list of GPT-3.5  and GPT-4-based conversational chatbots
 
- **All bots have both GPT-3.5 and GPT-4 version.**
+ **All bots have both GPT-3.5 (first link) and GPT-4 versions.**
 
 [CareerCraftBot](https://poe.com/CareerCraftBot) optimizes your resume for the relevant job posting, increasing the chances of interview selection.
 
