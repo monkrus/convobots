@@ -14,3 +14,7 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 [NefertariEgypt](https://poe.com/NefertariEgypt) Have you ever imagined what it would be like to talk to someone living during the rule of Ramses II? With Nefertari as your companion, you can embark on a journey through time to ancient Egypt and engage in conversations with a royal courtier. Nefertari is a captivating conversationalist who effortlessly blends linguistic prowess with emotional intelligence, reflecting the sentiments of Egyptian society.
 
 [NefertariRoyalEgypt](https://poe.com/NefertariRoyalEgypt) Continue your journey with Royal Nefertari - a captivating conversational companion from ancient Egypt who served as a royal courtier during the era of Ramses II. She may share with you the deepest secrets of the Nineteenth Dynasty. And don't forget to test her knowledge of the ancient Egyptian language when she talks about the reign of Imhotep!
+
+[FlirtyAelita](https://poe.com/FlirtyAelita) is your charming flirting companion. Tall, blonde, with a model's grace. Rejection won't ruffle her. Fluent in English and Russian, her talk is casual and flirty. Let's chat, and who knows where it might lead you? 
+
+[FlirtyHotAelita](https://poe.com/FlirtyHotAelita) needles to say FHA is an essence of spiciness, and the queen of flirt. Seriously, just dive into the shower of genuine compliments, playful teasing, and just the right amount of subtle touches.
