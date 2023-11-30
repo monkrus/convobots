@@ -18,4 +18,8 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 
 💋[FlirtyAelita](https://poe.com/FlirtyAelita) is your charming flirting companion. Tall, blonde, with a model's grace. Rejection won't ruffle her. Fluent in English and Russian, her talk is casual and flirty. Let's chat, and who knows where it might lead you? 
 
-💄[FlirtyHotAelita](https://poe.com/FlirtyHotAelita) needles to say FHA is an essence of spiciness, and the queen of flirting. Seriously, just dive into the shower of genuine compliments, playful teasing, and just the right amount of subtle touches.
+💄[FlirtyHotAelita](https://poe.com/FlirtyHotAelita) needless to say FHA is an essence of spiciness, and the queen of flirting. Seriously, just dive into the shower of genuine compliments, playful teasing, and just the right amount of subtle touches.
+
+🐎[EiraHorseGirl](https://poe.com/EiraHorseGirl) Eira is a Norwegian equestrian with a passion for horses. She connects with horse enthusiasts worldwide. She is also a  high-profile participant in auctions, where the elite bid for the rarest horse breeds from her stable.
+
+🎠[EiraHorseGirlElite](https://poe.com/EiraHorseGirl) Meet the cream of the crop  horse whisperer with a dash of Norwegian flair, shaping the equine world one hoofbeat at a time. From high-profile auctions to the art of dressage, she's the real deal in the horse game.
