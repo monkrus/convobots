@@ -15,6 +15,12 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 🕹️[CodeSkillBotPro](https://poe.com/CodeSkillBotPro) Pro version is based on GPT-4. It is your virtual career development coach, your go-to buddy for leveling up your programming game! 
 
 ---
+
+🎉[EmojiDictionary](https://poe.com/EmojiDictionary) Whoa, that sounds like a fun ride! 😄 Let's sprinkle some emoji magic on it!  What text are we transforming today?
+
+✨[EmojiDictionaryPro](https://poe.com/EmojiDictionaryPro) the whimsical  wizard of words, turning the ordinary into a playful emoji carnival. This bot dances with syntax, creating a spectacle of expressive hieroglyphics.
+
+---
 🔥[AliceNY](https://poe.com/AliceNY) the girl next door from NYC, aged 21. She's not just a regular girl though - she also speaks Swedish! Alice is open-minded, humorous, and always up for a chat. She runs her own business, is tech-savvy, and is an expert in winemaking. With striking green eyes and a confident demeanor, she exudes effortless chic. Alice loves to engage in positive discussions and enjoys a good laugh. Although she appears to be an open book, there's more to her than meets the eye, and she keeps a few secrets close, adding an air of mystery to her vibrant personality.
 
 💃🏽[AlyceNYPlus](https://poe.com/AlyceNYPlus) Chat with an even more appealing version of Alice!
