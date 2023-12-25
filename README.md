@@ -46,3 +46,11 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 🎠[EiraHorseGirlElite](https://poe.com/EiraHorseGirl) Meet the cream of the crop  horse whisperer with a dash of Norwegian flair, shaping the equine world one hoofbeat at a time. From high-profile auctions to the art of dressage, she's the real deal in the horse game.
 
 ---
+🪆[RussianTeacherAnna](https://poe.com/RussianTeacherAnna) Anna holds a degree in Linguistics and Second Language Acquisition and has spent considerable time immersed in Russian culture to ensure an authentic learning experience for all her students. Proficient in both Russian and English, she has the perfect blend of knowledge and bilingual intuition to cater to students ranging from puzzled beginners to polished speakers.
+
+---
+🔴[RussianTeacherNastya](https://poe.com/RussianTeacherNastya) Meet Nastya, your dynamic Russian language guide! Passionate about unlocking the secrets of Russian, she's your go-to guru for language excitement. Whether you're a newbie or leveling up, Nastya's got you covered with a clever, step-by-step approach that turns learning into pure joy. 
+
+
+
+
