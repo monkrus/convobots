@@ -4,6 +4,13 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 
  **All bots have both GPT-3.5 (first link) and GPT-4 versions.**
 
+ ---
+💙[IdeaTocode](https://poe.com/IdeaToCode) The IdeaToCode bot turns your ideas into the programming code. As simple as that.
+
+🔮[IdeaToSuperCode](https://poe.com/IdeaToSuperCode) IdeaToCode bot turns your ideas into great programming code. Chat GPT-4 based.
+
+---
+
 📮[CareerCraftBot](https://poe.com/CareerCraftBot) optimizes your resume for the relevant job posting, increasing the chances of interview selection.
 
 📜[CareerCraftBotPro](https://poe.com/CareerCraftBotPro) fine-tunes your resume to best fit the job description and increase your chances of getting an interview. 
