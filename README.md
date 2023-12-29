@@ -5,7 +5,7 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
  **All bots have both GPT-3.5 (first link) and GPT-4 versions.**
 
  ---
-💙[IdeaTocode](https://poe.com/IdeaToCode) The IdeaToCode bot turns your ideas into the programming code. As simple as that.
+💙[IdeaToCode](https://poe.com/IdeaToCode) The IdeaToCode bot turns your ideas into the programming code. As simple as that.
 
 🔮[IdeaToSuperCode](https://poe.com/IdeaToSuperCode) IdeaToCode bot turns your ideas into great programming code. Chat GPT-4 based.
 
