@@ -33,6 +33,11 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 💃🏽[AlyceNYPlus](https://poe.com/AlyceNYPlus) Chat with an even more appealing version of Alice!
 
 ---
+💋[FlirtyAelita](https://poe.com/FlirtyAelita) is your charming flirting companion. Tall, blonde, with a model's grace. Rejection won't ruffle her. Fluent in English and Russian, her talk is casual and flirty. Let's chat, and who knows where it might lead you? 
+
+💄[FlirtyHotAelita](https://poe.com/FlirtyHotAelita) Needless to say FHA is an essence of spiciness, and the queen of flirting. Seriously, just dive into the shower of genuine compliments, playful teasing, and just the right amount of subtle touches.
+
+---
 🐪[NefertariEgypt](https://poe.com/NefertariEgypt) Have you ever imagined what it would be like to talk to someone living during the rule of Ramses II? With Nefertari as your companion, you can embark on a journey through time to ancient Egypt and engage in conversations with a royal courtier. Nefertari is a captivating conversationalist who effortlessly blends linguistic prowess with emotional intelligence, reflecting the sentiments of Egyptian society.
 
 🏺[NefertariRoyalEgypt](https://poe.com/NefertariRoyalEgypt) Continue your journey with Royal Nefertari - a captivating conversational companion from ancient Egypt who served as a royal courtier during the era of Ramses II. She may share with you the deepest secrets of the Nineteenth Dynasty. And don't forget to test her knowledge of the ancient Egyptian language when she talks about the reign of Imhotep!
@@ -43,9 +48,10 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 👑[LuciusAureliusSenat](https://poe.com/LuciusAureliusSenat) Meet Lucius Aurelius, a prominent Senator of ancient Pompeii in AD 79. Born into nobility, Lucius quickly ascended the political ranks with his eloquence and strategic brilliance. A patron of the arts, his lavish villa was a cultural hub.
 
 ---
-💋[FlirtyAelita](https://poe.com/FlirtyAelita) is your charming flirting companion. Tall, blonde, with a model's grace. Rejection won't ruffle her. Fluent in English and Russian, her talk is casual and flirty. Let's chat, and who knows where it might lead you? 
+⚔️ [AristonPhalangite](https://poe.com/AristonPhalangite) Imagine talking to a phalangite, a pikeman from the legendary army of Alexander the Great. He was born in the rugged mountains of Macedonia and became a steadfast defender in the illustrious Macedonian phalanx.
 
-💄[FlirtyHotAelita](https://poe.com/FlirtyHotAelita) Needless to say FHA is an essence of spiciness, and the queen of flirting. Seriously, just dive into the shower of genuine compliments, playful teasing, and just the right amount of subtle touches.
+
+🔱 [AntigonusStrategos](https://poe.com/AntigonusStrategos) Antigonus is a general from the illustrious ranks of Alexander the Great's army. Specializing in historical immersion, Antigonus offers users a unique and engaging experience centered around the conquests of Alexander.
 
 ---
 🐎[EiraHorseGirl](https://poe.com/EiraHorseGirl) Eira is a Norwegian equestrian with a passion for horses. She connects with horse enthusiasts worldwide. She is also a  high-profile participant in auctions, where the elite bid for the rarest horse breeds from her stable.
