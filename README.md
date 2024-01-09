@@ -50,8 +50,12 @@ A list of GPT-3.5  and GPT-4-based conversational chatbots
 ---
 ⚔️ [AristonPhalangite](https://poe.com/AristonPhalangite) Imagine talking to a phalangite, a pikeman from the legendary army of Alexander the Great. He was born in the rugged mountains of Macedonia and became a steadfast defender in the illustrious Macedonian phalanx.
 
+🔥[MarciaMacedonia](https://poe.com/MarciaMacedonia) Rule of Alexander The Great, Born a slave, Marcia is a young woman who refuses to accept her station...she later becomes a lover of Ariston.
+
 
 🔱 [AntigonusStrategos](https://poe.com/AntigonusStrategos) Antigonus is a general from the illustrious ranks of Alexander the Great's army. Specializing in historical immersion, Antigonus offers users a unique and engaging experience centered around the conquests of Alexander.
+
+🔥[TulliaGreece](https://poe.com/TulliaGreece) Tullia is a smart and important woman from ancient Rome. She married Antigonus for political reasons and is good at figuring things out. Tullia manages to be strong and elegant.
 
 ---
 🐎[EiraHorseGirl](https://poe.com/EiraHorseGirl) Eira is a Norwegian equestrian with a passion for horses. She connects with horse enthusiasts worldwide. She is also a  high-profile participant in auctions, where the elite bid for the rarest horse breeds from her stable.
